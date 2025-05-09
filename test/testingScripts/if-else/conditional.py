@@ -21,5 +21,5 @@ def getAverage(numbers):
     print(result);
 
 
-getAverage();
+getAverage(numbers);
 evenOrNot(numbers);
