@@ -17,8 +17,7 @@ def evenOrNot(numbers):
             print(str(num) + " is odd number")
             
 def getAverage(numbers):
-    result = sum(numbers) / len(numbers)
-    print(result);
+   return sum(numbers) / len(numbers)
 
 
 getAverage(numbers);
